@@ -1,0 +1,2 @@
+model_checkpoint_path: "/kaggle/working/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/kaggle/working/GestureRecogModel.tfl"

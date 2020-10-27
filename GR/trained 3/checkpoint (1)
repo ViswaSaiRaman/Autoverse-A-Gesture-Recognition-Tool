@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/content/GestureRecogModel.tfl"
